@@ -3,9 +3,9 @@ import "./App.css";
 const App = () => {
   return (
     <div>
-      <h1 className="heading">GeeksForGeeks</h1>
+      <h1 className="heading">Basic Boilerplate of React</h1>
       <h4 className="sub-heading">
-        A computer science portal for geeks
+        Illustrating WebPack and Babel in creating a React App
       </h4>
     </div>
   );
